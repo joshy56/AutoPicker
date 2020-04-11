@@ -1,0 +1,6 @@
+main: com.joshy23.autopicker.AutoPicker
+name: AutoPicker
+version: 0.0.1
+depend:
+  - WorldGuard
+  - WorldEdit
